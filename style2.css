@@ -73,6 +73,10 @@ body{
     border-radius: 5px;
 }
 
+.bluebutton:hover{
+  background-color: #0050E6;
+}
+
 .nocolorbutton{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -89,7 +93,7 @@ body{
 }
 
 .nocolorbutton:hover{
-    background-color: #0F62FE;
+    background-color:#0050E6;
     color: white;
 }
 
@@ -137,6 +141,11 @@ body{
   background-color: #0F62FE;
   border-style: none;
 }
+
+.startfree:hover{
+  background-color: #0050E6;
+}
+
 
 
 .navSpace{
@@ -229,10 +238,6 @@ body{
   padding-top: 140px;
 }
 
-.redirect1{
-  display: flex;
-}
-
 .card-link4 a{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -242,9 +247,45 @@ body{
   text-decoration: none;
 }
 
+.card-link4 a:hover{
+  text-decoration: underline;
+}
+
+
+.card-title6 h5{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 19px;
+  color: rgb(82, 78, 78);
+}
+
+.card-subtitlemb-2text-body-secondary7 h6{
+   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-left: 4px ;
+}
+
+.card-text8 p{
+   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 20px;
+  padding-top: 140px;
+  color: black;
+}
+
+
 .card-link5{
   font-size: 40px;
-  margin-left: 220px;
+  margin-left: 330px;
+  margin-top: -50px;
   text-decoration: none;
 }
 
@@ -252,6 +293,41 @@ body{
   text-decoration: none;
   margin-bottom: 40px;
 }
+
+.card-link5 a:hover{
+  text-decoration: underline;
+}
+
+.card-link10 {
+   font-size: 40px;
+  margin-left: 330px;
+  margin-top: -50px;
+  text-decoration: none;
+}
+
+.card-link10 a{
+  text-decoration: none;
+}
+
+.card-link9{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  
+  text-decoration: none;
+}
+
+.card-link9 a{
+  text-decoration: none;
+ 
+}
+
+.card-link9 a:hover{
+  text-decoration: underline;
+}
+
+
 
 .card2{
   display: grid;
@@ -281,7 +357,7 @@ body{
   font-optical-sizing: auto;
   font-weight:250;
   font-style: normal;
-  font-size: 60px;
+  font-size: 57px;
   width: 1000px;
   color: black;
 }
@@ -293,3 +369,353 @@ body{
   border-color: white;
   width: 90px;
 }
+
+.dropball h3{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal;
+  width: 1000px;
+  color: black;
+ margin-top: 50px;
+}
+
+.section3entire {
+  display: flex;
+  margin-top: 20px;
+
+}
+
+.chartpicture{
+width: 150px;
+
+}
+
+.accordion{
+  width: 800px;
+  height: 40px;
+}
+
+.dropball p{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+  font-size: 20px;
+  width: 1000px;
+  color: black;
+  margin-top: 20px;
+}
+
+
+.fontInc{
+  font-size: 50px;
+}
+
+.accordion-header button{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+
+ font-size: 25px;
+}
+
+
+/* section4 */
+
+.section4{
+  margin-left: 40px;
+  padding-top: 80px;
+}
+
+.section4 h4{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 20px;
+  color: rgb(82, 78, 78);
+}
+
+.section4 h1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:250;
+  font-style: normal;
+  font-size: 57px;
+  width: 1000px;
+  color: black;
+}
+
+.datainfoimg img{
+  width: 1540px;
+  height: 350px;
+  padding-top: 60px;
+  padding-left: 50px;
+  
+}
+
+.carsection{
+  padding-top:80px ;
+}
+
+.carsection h4{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 20px;
+  color: rgb(82, 78, 78);
+}
+
+.carsection h1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:250;
+  font-style: normal;
+  font-size: 57px;
+  width: 1000px;
+  color: black;
+}
+
+.carlogoimg img{
+  width: 1590px;
+  padding-left: 30px;
+  padding-top: 60px;
+}
+
+.section4base{
+  display: flex;
+  padding-top: 60px;
+}
+
+.hondacarimg img{
+  width: 500px;
+}
+
+.section4base h3{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.section4baseup p{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 19px;
+  width: 680px;
+  padding-top: 30px;
+}
+
+.section4baseup a{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 21px;
+  width: 680px;
+  text-decoration: none;
+}
+
+.section4baseup a:hover{
+  text-decoration: underline;
+}
+
+.number10 img{
+  width: 140px;
+  margin-left: -30px;
+  padding-top: 10px;
+}
+
+.hondacarimg img{
+  width: 750px;
+  border-radius: 8px;
+  margin-left: 180px;
+}
+
+
+
+
+
+/* section 5 */
+
+.section5{
+  margin-left: 40px;
+  padding-top: 80px;
+}
+
+.section5 h4{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 20px;
+  color: rgb(82, 78, 78);
+}
+
+.section5 h1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:250;
+  font-style: normal;
+  font-size: 57px;
+  width: 1000px;
+  color: black;
+}
+
+
+
+
+
+/* section6 */
+
+
+.section6 {
+   margin-left: 40px;
+  padding-top: 170px;
+}
+
+.section6 h1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:250;
+  font-style: normal;
+  font-size: 57px;
+  color: black;
+}
+
+.section6 h3{
+   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 23px;
+  padding-top: 25px;
+}
+
+.section6 button{
+
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-size: 19px;
+
+  margin-top: 20px;
+  padding-right:42px ;
+  width: 220px;
+  height: 65px;
+  border-radius: 5px;
+  color: white;
+  background-color: #0F62FE;
+  border-style: none;
+}
+
+.section6 button:hover{
+  background-color: #0050E6;
+}
+
+.section6 h4{
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal; 
+  font-size: 19px;
+  padding-top: 80px;
+  padding-left: 5px;
+}
+
+.section6links1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:350;
+  font-style: normal; 
+  font-size: 19px;
+  padding-left: 5px;
+  padding-top: 25px;
+  
+}
+
+.section6links1 a{
+  text-decoration: none;
+}
+
+.section6links1 a:hover{
+  text-decoration: underline;
+}
+
+.section6links2{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:350;
+  font-style: normal; 
+  font-size: 19px;
+  padding-top: 20px;
+  padding-left: 5px;
+}
+
+.section6links2 a{
+  text-decoration: none;
+}
+
+.section6links2 a:hover{
+  text-decoration: underline;
+}
+
+
+
+/* footer */
+
+.IBMfooter{
+  background-color: #161616;
+  padding-top: 80px;
+ margin-top: 60px;
+}
+
+.firstsec{
+   display: flex;
+}
+
+.footerimg img{
+  width: 250px;
+  padding-left:60px;
+}
+
+
+.footerlist{
+  padding-left: 240px;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 30px;
+  width: 1200px;
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:350;
+  font-style: normal; 
+  font-size: 18px;
+
+}
+
+.footerlist p{
+  color: white;
+}
+
+.footerlist li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.footerlist a{
+    text-decoration: none;
+    color:rgb(207, 198, 198); ;
+}
+.footerlist a:hover{
+    text-decoration: underline;
+}
+
